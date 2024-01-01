@@ -1,0 +1,59 @@
+body{
+    width: auto !important;
+    height: auto;
+}
+.mainheader{
+    height: 90px;
+    width: auto;
+    background-color: aqua;
+}
+#mycoupon{
+    position: absolute;
+    z-index: 99;
+    margin-left: 10%;
+    margin-top: 3%;
+    visibility: hidden;
+}
+.mainlogo{
+    margin-left: 50px;
+    height: 90px;
+    width: auto;
+}
+#font{
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: rgb(143, 38, 38);
+    color: white !important;
+}
+.side{
+    text-align: right;
+}
+
+#footerarea{
+    height: 290px;
+    background-color: rgb(30, 22, 36);
+    color: white;
+    margin-top: 40px !important;
+    text-align: center;
+}
+.bottom{
+    margin-top: 50px;
+}
+.bottom ul{
+    list-style: none;
+}
+.bottom ul li {
+    margin-bottom: 15px;
+}
+.bottom ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+.logincol{
+    box-shadow: 0 2px 20px 0 rgba(0,0,4,.4);
+    border-radius: 10px;
+    margin-left: -10px;
+    background-color: white !important;
+    height: 520px;
+}
